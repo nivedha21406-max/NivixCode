@@ -1,10 +1,10 @@
 <!-- 1. HERO BANNER -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nivedha%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring+Software+Developer+%7C+Flutter+%26+Full-Stack+Enthusiast&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nivedha%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring+Software+Developer+%7C+Flutter+and+Full-Stack+Enthusiast&descAlignY=62&descSize=16)
 
 <!-- 2. TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+IT+Student+%40+KCG+College+of+Technology;Flutter+%26+Dart+Mobile+App+Developer;Google+Cloud+Certified+Associate+Engineer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+IT+Student+%40+KCG+College+of+Technology;Flutter+and+Dart+Mobile+App+Developer;Google+Cloud+Certified+Associate+Engineer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
